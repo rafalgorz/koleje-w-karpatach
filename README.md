@@ -8,5 +8,3 @@ Działa bezpośrednio w przeglądarce (GitHub Pages lub otwarcie `index.html` z 
 Wersja publiczna: tylko mapy oraz zdjęcia autora lub z podanym źródłem. Zrzuty map linii pochodzą z
 https://www.bazakolejowa.pl/index.php?dzial=mapa (podkład © OpenStreetMap contributors).
 Granice historyczne: © OpenHistoricalMap contributors (ODbL).
-
-Generowane skryptem `export_public.js` z pełnej wersji lokalnej — nie edytuj ręcznie.
